@@ -1,0 +1,10 @@
+오후 1:24 2023-11-08
+
+c언어3강보기
+primative자료형-->char 
+                           int  
+                           float  
+                           double  
+                           void  
+오후 1:33 2023-11-08
+3강보기끝
